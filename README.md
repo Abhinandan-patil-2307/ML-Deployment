@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Boston House Pricing Prediction
 
 ### Software And Tools Requirements
@@ -12,3 +13,7 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+=======
+# ML-Deployment
+Deploy Machine Learning Models Using Docker And Github Action In Heroku
+>>>>>>> f2409019124d8b6a8acfd55ca66fffb78a0f1d2e
